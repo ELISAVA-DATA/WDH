@@ -5,7 +5,7 @@
 📊 **Total de respuestas:** 85  
 ✅ **Respuestas válidas:** 78  
 
----
+--
 
 ### 📂 Contenido del repositorio:
 - **Fotos recogidas:** Carpeta con todas las imágenes enviadas por los participantes.  
