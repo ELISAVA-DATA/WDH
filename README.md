@@ -17,10 +17,19 @@ Extraer patrones a partir de imágenes asociadas a la felicidad para identificar
 - La encuesta se difundió en redes sociales. 
 - **Enlace al formulario:** [https://app.getinput.co/jYM4](https://app.getinput.co/jYM4)
 
-### Análisis Visual y Extracción de Patrones
-- Se probarán técnicas de procesamiento de imágenes para identificar características comunes.
-- Se examinarán patrones de color, distribución de elementos en la composición y otros rasgos gráficos.
-- Se compararán los datos obtenidos para descubrir tendencias en el entendimiento de lo que es la felicidad.
+### Análisis Datos
+- Se realizó un preprocesamiento de los datos para estandarizar las respuestas y limpiar la base de datos.
+- Se categorizaron las imágenes en función de cuatro grandes temas: Compañía, Logro Personal, Celebración y Naturaleza.
+- Se analizaron variables adicionales, como el tipo de relación entre las personas en la imagen, la presencia de sonrisas, el entorno (interior/exterior), y la predominancia de ciertos colores.
+- Se aplicaron métodos estadísticos y visualización de datos para identificar patrones recurrentes en la muestra.
+
+### Representación gráficas
+- Los patrones más repetidos se transformarán en una representación visual basada en texturas, formas y colores.
+- Se utilizará **Adobe Illustrator** para la creación de estas representaciones.
+
+### Entrenamiento algoritmo
+- Tras realizar manualmente la representación de los patrones, se entrenará un algoritmo de aprendizaje automático.
+- El objetivo del modelo será generar interpretaciones visuales automatizadas de nuevas imágenes basadas en los patrones identificados.
 
 ## 🔒 Privacidad y Tratamiento de Datos
 
