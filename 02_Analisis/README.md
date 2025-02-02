@@ -1,27 +1,34 @@
-# What Does Happiness Look Like?
+# 📊 Análisis de Datos  
 
-## 📌 Introducción
+En esta carpeta se encuentra el código y los archivos utilizados para el análisis de los datos.
 
-La felicidad es una emoción universal, pero su representación visual varía según la persona, el contexto y la cultura. Este proyecto busca explorar esas diferencias y similitudes a través de la recopilación y análisis de imágenes felices enviadas por participantes. 
+## Contenido  
 
-_Este proyecto se desarrolla dentro de la asignatura Data del Máster de Ingeniería de Diseño Industrial de la Universidad Elisava._ 
+📂 **`Analisis.ipynb`** → Notebook con el procesamiento y análisis de los datos.  
+📂 **`Metadata`** → Carpeta con el código para la extracción del metada de las imágenes.  
+📂 **`Parametrizacion Elementos`** → Carpeta con el código para el reconocimiento automático de los datos.  
 
-## 🎯 Objetivo
+## 🔍 Objetivo  
+El propósito de este análisis es estructurar y procesar los datos obtenidos en la fase de recopilación, extrayendo patrones clave y generando visualizaciones que ayuden a interpretar los resultados.  
 
-Extraer patrones a partir de imágenes asociadas a la felicidad para identificar elementos recurrentes y explorar la felicidad desde una perspectiva visual basada en datos.
+## Proceso de Análisis  
 
-## 🛠 Metodología
+1. **Limpieza de Datos**  
+   - Eliminación de columnas irrelevantes.  
+   - Normalización de respuestas (género, ubicación, etc.).  
 
-### Recopilación de Datos
-- Se creó un formulario en línea para que los usuarios pudieran compartir con nosotras su imagen más feliz del 2024, así como información adicional de dicho momento.
-- La encuesta se difundió en redes sociales. 
-- **Enlace al formulario:** [https://app.getinput.co/jYM4](https://app.getinput.co/jYM4)
+2. **Transformación de Datos**  
+   - Creación de nuevas variables como `Día de la Semana`, `Mes`, `Color predominante`, etc.  
+   - Agrupación por categorías (`Compañía`, `Logro Personal`, `Celebración`, `Naturaleza`).  
 
-### Análisis Visual y Extracción de Patrones
-- Se probarán técnicas de procesamiento de imágenes para identificar características comunes.
-- Se examinarán patrones de color, distribución de elementos en la composición y otros rasgos gráficos.
-- Se compararán los datos obtenidos para descubrir tendencias en el entendimiento de lo que es la felicidad.
+3. **Exploración de Datos**  
+   - Análisis de frecuencia de cada variable.   
+   - Identificación de patrones en la data.  
 
-## 🔒 Privacidad y Tratamiento de Datos
+4. **Visualización**  
+   - Distribución de imágenes según temática.  
+   - Comparación de ubicaciones (interior/exterior).  
+   - Análisis de colores más comunes en las imágenes.  
+   - Relación entre personas en las fotos.  
 
-Los datos recopilados serán utilizados exclusivamente para este estudio. Las imágenes no serán publicadas ni compartidas con terceros, sino que se analizarán de forma interna y anónima para extraer tendencias generales.
+En la próxima fase, procederemos a la representación gráfica de la felicidad, basada en los patrones extraídos de las imágenes.
