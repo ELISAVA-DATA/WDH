@@ -1,57 +1,61 @@
-📂 #Recogida de Datos
+# 📂 Recogida de Datos
 
-📋 Herramienta Utilizada
+## 📋 Herramienta Utilizada
 
-Para la recopilación de datos, utilizamos la plataforma Get Input, una herramienta que nos permitió diseñar un formulario accesible para los participantes. Esta plataforma fue elegida tras evaluar varias opciones, ya que fue la única que garantizaba el anonimato completo de los usuarios, lo cual era un requisito fundamental para nuestro estudio.
+Para la recopilación de datos, utilizamos la plataforma **Get Input**, una herramienta que nos permitió diseñar un formulario accesible para los participantes.  
+Esta plataforma fue elegida tras evaluar varias opciones, ya que fue la única que garantizaba el **anonimato completo** de los usuarios, lo cual era un requisito fundamental para nuestro estudio.
 
-📝 Diseño de la Encuesta
+## 📝 Diseño de la Encuesta
 
-La encuesta fue diseñada con el objetivo de recopilar imágenes asociadas a momentos felices junto con información contextual que nos permitiera analizar patrones comunes.
+La encuesta fue diseñada con el objetivo de recopilar **imágenes asociadas a momentos felices** junto con información contextual que nos permitiera analizar patrones comunes.
 
-🔍 Preguntas del Formulario
+## 🔍 Preguntas del Formulario
 
-1️⃣ Subida de foto 📸
+### 1️⃣ Subida de foto 📸
 
-Se solicitó a los participantes que subieran la imagen que más felicidad les generara en 2024.
+Se solicitó a los participantes que subieran la imagen que más felicidad les generara en 2024.  
 
-Límite de tamaño de archivo: 16 MB.
+**Límite de tamaño de archivo:** 16 MB.
 
-2️⃣ Fecha de la foto 🗓️
+### 2️⃣ Fecha de la foto 🗓️
 
-Campo de texto para indicar cuándo fue tomada la imagen.
+**Campo de texto** para indicar cuándo fue tomada la imagen.
 
-3️⃣ Ubicación 📍
+### 3️⃣ Ubicación 📍
 
-Se pidió a los participantes que indicaran dónde se tomó la foto.
+Se pidió a los participantes que indicaran **dónde se tomó la foto**.
 
-4️⃣ Género ⚧️
+### 4️⃣ Género ⚧️
 
-Opción de respuesta múltiple: Mujer, Hombre, Otro.
+**Opción de respuesta múltiple:**  
+- Mujer  
+- Hombre  
+- Otro  
 
-5️⃣ Edad 🎂
+### 5️⃣ Edad 🎂
 
-Rango de opciones:
+**Rango de opciones:**  
+- Menos de 18 años  
+- Entre 18 y 30 años  
+- Entre 30 y 50 años  
+- Más de 50 años  
 
-Menos de 18 años
+### 6️⃣ Foto tomada en un viaje ✈️
 
-Entre 18 y 30 años
+**Opción de respuesta binaria:** Sí / No.
 
-Entre 30 y 50 años
+### 7️⃣ Descripción breve ✍️
 
-Más de 50 años
+Espacio de **texto abierto** para que los participantes explicaran por qué eligieron esa imagen como su foto más feliz.
 
-6️⃣ Foto tomada en un viaje ✈️
+---
 
-Opción de respuesta binaria: Sí / No.
+## 🔒 Protección de Datos
 
-7️⃣ Descripción breve ✍️
+Todas las respuestas fueron **anónimas**, y las imágenes solo serán utilizadas para **análisis interno** dentro del marco del proyecto.  
+No se publicarán ni compartirán con terceros.
 
-Espacio de texto abierto para que los participantes explicaran por qué eligieron esa imagen como su foto más feliz.
+## 📎 Enlace al formulario
 
-🔒 Protección de Datos
-
-Todas las respuestas fueron anónimas, y las imágenes solo serán utilizadas para análisis interno dentro del marco del proyecto. No se publicarán ni compartirán con terceros.
-
-📎 Enlace al formulario
-
-El formulario se difundió a través de redes sociales y estuvo disponible en el siguiente enlace:🔗 Get Input - Encuesta
+El formulario se difundió a través de redes sociales y estuvo disponible en el siguiente enlace:  
+🔗 **[Get Input - Encuesta](#)**
