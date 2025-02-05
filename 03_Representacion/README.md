@@ -1,27 +1,29 @@
-# Representación Gráfica
+# 🎨 Representación Gráfica
 
-En esta carpeta se encuentra el código utilizado para creación de promts descriptivos para la representación de los datos de manera gráfica y la descripción de cada elemento.
+En esta carpeta se encuentra el código utilizado para la creación de prompts descriptivos que permiten la representación visual de los datos obtenidos, así como la descripción de cada elemento gráfico.
 
-## Descripción
+## 📝 Descripción
 
-Basándonos en las fotos enviadas y la información que extrajimos de ellas, creamos ilustraciones que reflejaban fielmente los elementos visuales presentes. Cada forma, color y detalle complementario fue cuidadosamente seleccionado según las categorías de información que, al analizar los datos, nos parecieron más relevantes. Los patrones emergentes de este análisis sirvieron como guía para desarrollar las ilustraciones, asegurando una representación coherente y significativa de la información.
+A partir de las fotos enviadas y la información extraída del análisis de datos, desarrollamos ilustraciones que reflejan de manera fiel los elementos visuales más relevantes. Cada forma, color y detalle complementario fue cuidadosamente seleccionado para representar patrones emergentes de la investigación. De esta manera, las visualizaciones generadas ofrecen una interpretación estructurada y significativa de la información recopilada.
 
-## Creación de promts
-**1. Forma:**
-   	La forma de cada gráfico es determinada por las personas que aprecen en la foto.
-    
-**2. Color:**
-  	El se determina según la temática de la foto.
+## ✨ Generación de Prompts
+
+Para traducir los datos en representaciones visuales, definimos una serie de reglas que determinan los atributos de cada ilustración:
+
+**1️⃣ Forma:**
+   - La forma de cada gráfico está determinada por la relación entre las personas que aparecen en la imagen.
    
-**3. Contorno:**
-  	Se agrega un controno basado en la ubicación de la foto: exterior o interio.
+**2️⃣ Color:**
+   - La paleta de colores se asigna según la temática predominante de la foto.
    
-**4. Sparkle:**
-		Si las personas que aparecen en la foto se encuentran sonriendo, se agrega un "sparkle".
+**3️⃣ Contorno:**
+   - Se añade un contorno específico dependiendo de la ubicación de la imagen (interior o exterior).
+   
+**4️⃣ Sparkle:**
+   - Si las personas en la foto están sonriendo, se incorpora un efecto "sparkle" en la ilustración.
 
-Basado en estas categorías se realizo un código de phyton que leyera la información obtenida en forma de csv y la rescribiera a manera de promts.
+Con base en estas categorías, se desarrolló un código en Python que lee la información procesada en formato CSV y la traduce en prompts descriptivos para la generación automática de visualizaciones.
 
-EJEMPLO: *Couple graph green pink orange add contour with sparkle!*
+### 📌 Ejemplo de Prompt Generado:
+   *"Couple graph green pink orange add contour with sparkle!"*
 
-## Clasificación de elementos gráficos
-![Elementos gráficos](03_Representacion/Graficos.jpeg)
