@@ -1,6 +1,6 @@
 # Representación Gráfica
 
-En esta carpeta se encuentra el código utilizado para creación de promts descriptivos para la representación de los datos de manera gráfica.
+En esta carpeta se encuentra el código utilizado para creación de promts descriptivos para la representación de los datos de manera gráfica y la descripción de cada elemento.
 
 ## Descripción
 
