@@ -31,4 +31,24 @@ El propósito de este análisis es estructurar y procesar los datos obtenidos en
    - Análisis de colores más comunes en las imágenes.  
    - Relación entre personas en las fotos.  
 
+## 📈 Resultados  
+
+### **Población de la muestra**  
+- **Género**: La mayoría de los participantes son mujeres.  
+- **Edad**: La distribución de edades muestra una mayor concentración en ciertos rangos, con valores predominantes en edades jóvenes de entre 18 y 30 años.
+- **Ubicaciones**: Los lugares más recurrentes en las imágenes incluyen Cataluña, México y Madrid.
+
+### **Patrones identificados**  
+- **Frecuencia de categorías**: La temática más común en las imágenes es `Viaje`, seguida por `Naturaleza`, `Celebraciones` y `Logros Personales`.  
+- **Ubicación**: Un 66.7% de las imágenes fueron tomadas en exteriores, mientras que el 33.3% fueron capturadas en interiores.  
+- **Relación entre personas**: La mayoría de las fotos incluyen `Amigos` (30.8%), seguidas por imágenes individuales (26.9%), `Pareja` (23.1%), `Familia` (11.5%) y `Mascotas` (7.7%).  
+- **Colores predominantes**: Los colores más frecuentes en las imágenes son `Azul`, `Verde`, `Negro`, `Marrón` y `Naranja`.  
+- **Expresión facial**: Se identificó una alta presencia de sonrisas en las imágenes. 
+- **Fotografías de viajes**: Aproximadamente el 50% de las imágenes fueron tomadas durante un viaje.  
+
 En la próxima fase, procederemos a la representación gráfica de la felicidad, basada en los patrones extraídos de las imágenes.
+
+
+
+
+
