@@ -19,8 +19,6 @@ Extraer patrones a partir de imágenes asociadas a la felicidad para identificar
 
 ### Análisis Datos
 - Se realizó un preprocesamiento de los datos para estandarizar las respuestas y limpiar la base de datos.
-- Se categorizaron las imágenes en función de cuatro grandes temas: Compañía, Logro Personal, Celebración y Naturaleza.
-- Se analizaron variables adicionales, como el tipo de relación entre las personas en la imagen, la presencia de sonrisas, el entorno (interior/exterior), y la predominancia de ciertos colores.
 - Se aplicaron métodos estadísticos y visualización de datos para identificar patrones recurrentes en la muestra.
 
 ### Representación gráficas
@@ -28,8 +26,8 @@ Extraer patrones a partir de imágenes asociadas a la felicidad para identificar
 - Se utilizará **Adobe Illustrator** para la creación de estas representaciones.
 
 ### Entrenamiento algoritmo
-- Tras realizar manualmente la representación de los patrones, se entrenará un algoritmo de aprendizaje automático.
-- El objetivo del modelo será generar interpretaciones visuales automatizadas de nuevas imágenes basadas en los patrones identificados.
+- Tras realizar manualmente la representación de los patrones, se entrenó un algoritmo de aprendizaje automático.
+- El objetivo del modelo es automatizar el proceso en base al patrón que hemos diseñado. 
 
 ## 🔒 Privacidad y Tratamiento de Datos
 
