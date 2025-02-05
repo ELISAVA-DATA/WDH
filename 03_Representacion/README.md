@@ -9,10 +9,13 @@ Basándonos en las fotos enviadas y la información que extrajimos de ellas, cre
 ## Creación de promts
 **1. Forma:**
    	La forma de cada gráfico es determinada por las personas que aprecen en la foto.
+    
 **2. Color:**
   	El se determina según la temática de la foto.
+   
 **3. Contorno:**
   	Se agrega un controno basado en la ubicación de la foto: exterior o interio.
+   
 **4. Sparkle:**
 		Si las personas que aparecen en la foto se encuentran sonriendo, se agrega un "sparkle".
 
