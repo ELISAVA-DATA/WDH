@@ -12,7 +12,7 @@ En este proyecto exploramos el entrenamiento de modelos de inteligencia artifici
 ## 🚀 Proceso  
 
 1. Se intentó utilizar un modelo de código abierto para entrenar IA con nuestro set de 78 imágenes creadas con Illustrator, pero no fue posible implementarlo debido a restricciones de acceso en plataformas de pago.
-2. En su lugar, se probaron nuestras imágenes directamente en Midjourney, utilizando la herramienta de personalización y prompts específicos.
+2. En su lugar, se probaron nuestras imágenes directamente en Midjourney, utilizando la herramienta de personalización y prompts específicos, indicando a la herramienta que usase únicamente nuestras imágenes como referencia.
 3. A partir de estos prompts, se generaron imágenes muy similares a las originales, lo que indica la posibilidad de automatizar este proceso en el futuro.
 
 ## 📊 Conclusiones y Futuras Líneas de Trabajo  
