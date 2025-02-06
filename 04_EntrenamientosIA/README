@@ -1,4 +1,4 @@
-# 🤖 Entrenamiento de Inteligencia Artificial  
+## 🤖 Entrenamiento de Inteligencia Artificial  
 
 ## Introducción
 
@@ -6,12 +6,12 @@ En este proyecto exploramos el entrenamiento de modelos de inteligencia artifici
 
 ## 📂 Estructura de la Carpeta  
 
-- **`Modelo entrenado/`** → Contiene el código de entrenamiento extraído de un repositorio abierto de GitHub. Sin embargo, no se pudo utilizar, ya que todas las plataformas compatibles con el modelo eran de pago.
+- **`Modelo entrenado/`** → Contiene el código de entrenamiento extraído de un repositorio abierto de GitHub. Sin embargo, no se pudo utilizar, ya que las imágenes usadas para su entrenamiento no contaban con tags asociados.
 - **`Midjourney/`** → Imágenes resultantes del proceso de personalización y generación mediante prompts.
 
 ## 🚀 Proceso  
 
-1. Se intentó utilizar un modelo de código abierto para entrenar IA con nuestro set de 79 imágenes creadas con Illustrator, pero no fue posible implementarlo debido a restricciones de acceso en plataformas de pago.
+1. Se intentó utilizar un modelo de código abierto para entrenar IA con nuestro set de 78 imágenes creadas con Illustrator, pero no fue posible implementarlo debido a restricciones de acceso en plataformas de pago.
 2. En su lugar, se probaron nuestras imágenes directamente en Midjourney, utilizando la herramienta de personalización y prompts específicos.
 3. A partir de estos prompts, se generaron imágenes muy similares a las originales, lo que indica la posibilidad de automatizar este proceso en el futuro.
 
